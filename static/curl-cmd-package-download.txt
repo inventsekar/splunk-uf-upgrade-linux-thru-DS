@@ -1,0 +1,10 @@
+# from the DS, use this curl or wget command to download the UF package
+# 29th march 2023 wednesday
+# inventsekar
+
+
+
+# curl -L -o splunkforwarder-9.0.4-de405f4a7979-Linux-x86_64.tgz  
+
+
+# wget -O splunkforwarder-9.0.4-de405f4a7979-Linux-x86_64.tgz "https://download.splunk.com/products/universalforwarder/releases/9.0.4/linux/splunkforwarder-9.0.4-de405f4a7979-Linux-x86_64.tgz"
